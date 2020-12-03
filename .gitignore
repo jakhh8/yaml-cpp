@@ -1,3 +1,7 @@
 build/
 /tags
 /bazel-*
+
+# Guacamole specific
+bin
+bin-int
